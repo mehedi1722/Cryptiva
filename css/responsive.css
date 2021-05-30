@@ -1,0 +1,541 @@
+@media all and (min-width: 1200px) and (max-width: 1500px){
+
+    a.nav-link {
+        font-size: 14px;
+    }
+
+    .heading_content h1 span {
+        font-size: 35px;
+    }
+    .service_card {
+        width: 300px !important;
+    }
+}
+@media all and (min-width: 992px) and (max-width: 1199px){
+    .row.banner_content {
+        padding: 140px 0 80px 0;
+    }
+    section#Home {
+        min-height: 40vh;
+    }
+
+    a.nav-link {
+        font-size: 13px;
+    }
+
+    .heading_content h1 span {
+        font-size: 30px;
+    }
+    .service_card {
+        width: 285px;
+    }
+
+}
+
+@media all and (min-width: 768px) and (max-width: 991px){
+
+    a.nav-link {
+        font-size: 12px;
+    }
+
+    .row.banner_content {
+        padding: 140px 0 100px 0;
+    }
+
+    .heading_content h1 {
+        font-size: 24px;
+    }
+    
+    .heading_content p {
+        font-size: 12px;
+    }
+    
+    section#Home {
+        min-height: 40vh;
+    
+    }
+    .service_card {
+        margin: 0 0 20px 0;
+    }
+    
+    .brand_img {
+        text-align: center;
+        margin: 0 0 30px 0;
+    }
+    
+    .service_section_title h3 {
+        font-size: 25px;
+    }
+    
+    .small_heading h4 {
+        font-size: 15px;
+    }
+    
+    .card_icon img {
+        width: 30px;
+    }
+    
+    .counter_Card {
+        margin: 0 0 45px 0;
+    }
+    
+    .all_services_card {
+        margin: 0 0 25px 0;
+    }
+    
+    .section_overlay.text-center h1 {
+        font-size: 25px;
+    }
+    
+    .section_overlay.text-center p {
+        font-size: 11px;
+    }
+    
+    form {
+        margin: 50px 0;
+    }
+}
+
+@media all and (min-width: 576px) and (max-width: 767px){
+
+    ul.navbar-nav.mx-auto.mt-2.mt-lg-0 {
+        text-align: center;
+    }
+    
+    .Button {
+        text-align: center;
+    }
+
+    .col-lg-6.col-md-6.col-sm-12.heading_content_section {
+        text-align: center;
+        order: 2;
+    }
+    
+    .col-lg-6.col-md-6.col-sm-12.banner-img-section img {width: 450px;}
+    
+    .service_card {
+        width: 80%;
+        margin: 20px auto;
+    }
+    
+    .section_title h3 {
+        font-size: 30px;
+    }
+    
+    .section_title h3 span {
+        font-size: 30px;
+    }
+    
+    .brand_img {
+        text-align: center;
+        margin: 15px 0;
+    }
+    
+    .service_section_title {
+        margin: 35px 0 0 0;
+    }
+    
+    .counter_Card {
+        margin: 20px 0;
+    }
+    
+    .all_services_card {
+        width: 80%;
+        margin: 20px auto;
+    }
+    
+    .section_overlay.text-center h1 {
+        font-size: 25px;
+    }
+    
+    .Blog_Card {min-height: 500px;}
+    
+    form {
+        margin: 25px 0;
+    }
+}
+
+@media all and (min-width: 480px) and (max-width: 575px){
+    ul.navbar-nav.mx-auto.mt-2.mt-lg-0 {
+        text-align: center;
+    }
+    
+    .Button {
+        text-align: center;
+    }
+
+    .heading_content h1 {
+        font-size: 30px;
+    }
+    
+    .col-lg-6.col-md-6.col-sm-12.heading_content_section {
+        text-align: center;
+        order: 2;
+    }
+    
+    .col-lg-6.col-md-6.col-sm-12.banner-img-section img {
+        width: 430px;
+    }
+    
+    .service_card {
+        width: 80%;
+        margin: 20px auto;
+    }
+    
+    .section_title h3 {
+        font-size: 30px;
+    }
+    
+    .section_title h3 span {
+        font-size: 30px;
+    }
+    
+    .brand_img {
+        text-align: center;
+        margin: 15px 0;
+    }
+    
+    .service_section_title {
+        margin: 35px 0 0 0;
+    }
+    
+    .counter_Card {
+        margin: 20px 0;
+    }
+    
+    .all_services_card {
+        width: 80%;
+        margin: 20px auto;
+    }
+    
+    .section_overlay.text-center h1 {
+        font-size: 25px;
+    }
+    
+    .Blog_Card {min-height: 500px;}
+    
+
+    ul.navbar-nav.mx-auto.mt-2.mt-lg-0 {
+        text-align: center;
+    }
+    
+    .Button {
+        text-align: center;
+    }
+    
+    .service_section_title {
+        padding: 0 25px;
+    }
+    
+    .small_des {
+        padding: 0 20px;
+    }
+    
+    .services_content_desctiption {
+        padding: 0 20px;
+    }
+    
+    section.Our_Services_section.text-white.mt-5 a.common_button {
+        margin: 0 20px;
+    }
+    
+    
+    .sign_up h1 {
+        font-size: 28px;
+    }
+    
+    .Address_section.d-flex.justify-content-between {
+        padding: 0 20px;
+    }
+    
+    form {
+        padding: 0 20px;
+        margin: 25px 0;
+    }
+}
+
+@media all and (min-width: 375px) and (max-width: 479px){
+
+    ul.navbar-nav {
+        text-align: center;
+    }
+    
+    .Button {
+        text-align: center;
+    }
+
+    .heading_content h1 {
+        font-size: 25px;
+    }
+
+    .heading_content p {
+        font-size: 12px;
+    }
+    
+    .heading_content_section {
+        text-align: center;
+        order: 2;
+    }
+
+    .service_card {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    .brand_img {
+        text-align: center;
+        margin: 15px 0;
+    }
+
+    .counter_Card {
+        margin: 20px 0;
+    }
+
+    .all_services_card {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px 15px;
+    }
+
+
+    .Button {
+        text-align: center;
+    }
+    
+    .service_section_title {
+        padding: 0 25px;
+    }
+    
+    .small_des {
+        padding: 0 20px;
+    }
+    
+    .services_content_desctiption {
+        padding: 0 20px;
+    }
+    
+    section.Our_Services_section.text-white.mt-5 a.common_button {
+        margin: 0 20px;
+    }
+    
+    
+    .sign_up h1 {
+        font-size: 28px;
+    }
+    
+    .Address_section.d-flex.justify-content-between {
+        padding: 0 20px;
+    }
+
+    .service_card {
+        width: 90%;
+        margin: 20px auto;
+    }
+    
+    .all_services_card {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px 15px;
+    }
+    
+    .service_section_title h3 {
+        font-size: 21px;
+        text-align: center;
+    }
+    
+    .service_section_title h6 {
+        text-align: center;
+        margin: 10px 0;
+    }
+    
+    .small_heading h4 {
+        font-size: 13px;
+    }
+    
+    .small_card_description p {
+        font-size: 10px;
+    }
+    
+    .section_overlay.text-center h1 {
+        font-size: 20px;
+    }
+    
+    .section_overlay.text-center p {
+        font-size: 10px;
+    }
+    
+    .sign_up h1 {
+        font-size: 22px;
+    }
+    
+    .sign_up p {
+        font-size: 12px;
+    }
+    
+    .address_icon svg {
+        font-size: 22px;
+    }
+
+    .address {
+        margin: 0 0 0 15px;
+        width: auto;
+    }
+    
+}
+
+@media all and (min-width: 320px) and (max-width: 374px){
+    ul.navbar-nav {
+        text-align: center;
+    }
+    
+    .Button {
+        text-align: center;
+    }
+
+    .heading_content h1 {
+        font-size: 20px;
+    }
+
+    .heading_content p {
+        font-size: 11px;
+    }
+    
+    .heading_content_section {
+        text-align: center;
+        order: 2;
+    }
+
+    .service_card {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    .brand_img {
+        text-align: center;
+        margin: 15px 0;
+    }
+
+    .counter_Card {
+        margin: 20px 0;
+    }
+
+    .all_services_card {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px 15px;
+    }
+
+
+    .Button {
+        text-align: center;
+    }
+    
+    .service_section_title {
+        padding: 0 25px;
+    }
+    
+    .small_des {
+        padding: 0 20px;
+    }
+    
+    .services_content_desctiption {
+        padding: 0 20px;
+    }
+    
+    section.Our_Services_section.text-white.mt-5 a.common_button {
+        margin: 0 20px;
+    }
+    
+    
+    .sign_up h1 {
+        font-size: 28px;
+    }
+    
+    .Address_section.d-flex.justify-content-between {
+        padding: 0 20px;
+    }
+
+    .service_card {
+        width: 90%;
+        margin: 20px auto;
+    }
+    
+    .all_services_card {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px 15px;
+    }
+    
+    .service_section_title h3 {
+        font-size: 21px;
+        text-align: center;
+    }
+    
+    .service_section_title h6 {
+        text-align: center;
+        margin: 10px 0;
+    }
+    
+    .small_heading h4 {
+        font-size: 13px;
+    }
+    
+    .small_card_description p {
+        font-size: 10px;
+    }
+    
+    .section_overlay.text-center h1 {
+        font-size: 20px;
+    }
+    
+    .section_overlay.text-center p {
+        font-size: 10px;
+    }
+     
+    .address_icon svg {
+        font-size: 22px;
+    }
+    
+
+
+    .Blog_Card {
+        text-align: center;
+    }
+    
+    .blog_description h1 {
+        font-size: 16px;
+    }
+    
+    .sign_up h1 {
+        font-size: 19px;
+    }
+    
+    .input_section a {
+        margin: 20px 0;
+    }
+    
+    .sign_up p {
+        font-size: 9px;
+    }
+    
+    .address h6 {
+        font-size: 13px;
+    }
+    
+    .address {
+        margin: 0 0 0 14px;
+        width: auto;
+    }
+    
+    .address p {
+        font-size: 8px;
+    }
+    
+    .service_section_title h3 {
+        font-size: 17px;
+    }
+    
+    .card_icon img {
+        width: 30px;
+    }
+}
